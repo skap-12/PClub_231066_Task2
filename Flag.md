@@ -16,6 +16,7 @@ The website to be used Command injection on was given in routes.txt, i.e. /ipDet
 Upon applying command injection with the IP Address provided in the link, i got some details.
 upon searching for command to get MAC address on terminal and cmd, i.e. ifconfig and applying ;ifconfig on the search bar, i got the MAC address of the machine.
 ![Part3]()
+![Part6]()
 
 # Third Flag ( pclub{01d_1s_g01d_sql1} )
 
