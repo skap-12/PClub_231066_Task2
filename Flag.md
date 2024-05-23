@@ -9,7 +9,7 @@ P.S. i did whole brute force , install gobuster and goofuzz only to realise it i
 ![Part1](Use1.png)
 ![Part2](Use2.png)
 
-# Second Flag ()
+# Second Flag ( 60:45:bd:af:3f:e5 )
 
 This flag was about getting MAC address.
 The website to be used Command injection on was given in routes.txt, i.e. /ipDetails
