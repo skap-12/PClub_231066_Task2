@@ -7,7 +7,7 @@ Later going deep into web exploitation, i realized that there is the getFile fun
 upon exploiting that and writing file = routes.txt, i found the first flag.
 P.S. i did whole brute force , install gobuster and goofuzz only to realise it is of no use(i didnt know what that meant at that time, experience teaches everything)
 ![Part1](Use1.png)
-![Part2]()
+![Part2](Use2.png)
 
 # Second Flag ()
 
