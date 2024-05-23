@@ -6,7 +6,7 @@ I wasted a good amount of hours on that, probably the whole day 1 and i was not 
 Later going deep into web exploitation, i realized that there is the getFile function hidden in the source page of gallery.
 upon exploiting that and writing file = routes.txt, i found the first flag.
 P.S. i did whole brute force , install gobuster and goofuzz only to realise it is of no use(i didnt know what that meant at that time, experience teaches everything)
-![Part1]()
+![Part1](Use1.png)
 ![Part2]()
 
 # Second Flag ()
